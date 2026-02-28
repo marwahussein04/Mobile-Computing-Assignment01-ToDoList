@@ -1,0 +1,19 @@
+# 📱 To-Do List Application
+
+This project is part of Mobile Computing – Assignment 01.
+
+## Features
+- Add new goals
+- Display goals using FlatList
+- Mark tasks as completed
+- Delete tasks
+- Dynamic task counter
+- Modern dark UI design
+
+## Technologies Used
+- React Native
+- Expo Snack
+- JavaScript (ES6)
+
+## Expo Snack Link
+(Paste your Snack link here)
